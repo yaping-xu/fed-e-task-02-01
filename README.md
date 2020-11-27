@@ -13,9 +13,9 @@
 
 ## 编程题
 #### 概述脚手架实现的过程，并使用 NodeJS 完成一个自定义的小型脚手架工具
-[脚手架项目的快捷入口](./code/homework-scaffolding)
-[脚手架说明文件](./code/homework-scaffolding/README.md)
+- [脚手架项目的快捷入口](./code/homework-scaffolding)
+- [脚手架说明文件](./code/homework-scaffolding/README.md)
 
 #### 尝试使用 Gulp 完成项目的自动化构建
-[gulp 自动化构建项目的快捷入口](./code/gulpConf)
-[gulp 说明文件](./code/gulpConf/README.md)
+- [gulp 自动化构建项目的快捷入口](./code/gulpConf)
+- [gulp 说明文件](./code/gulpConf/README.md)
