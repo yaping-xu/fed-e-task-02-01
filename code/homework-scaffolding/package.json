@@ -1,0 +1,14 @@
+{
+  "name": "homework-scaffolding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "cli.js",
+  "files": [
+    "bin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3"
+  }
+}
